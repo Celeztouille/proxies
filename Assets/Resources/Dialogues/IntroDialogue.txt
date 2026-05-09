@@ -1,0 +1,65 @@
+Âme|...
+Âme|(Je suis où ?)
+Âme|(Wesh il fait tout noir...)
+Âme|(Et je me souviens de rien.)
+Âme|(Sa mère j'me souviens de rien ?)
+Âme|(Putain quelle idée de génie de commencer un jeu vidéo avec une protagoniste amnésique, c'est du jamais vu. Bravo. Bientôt le GOTY on y croit.)
+Âme|(Bon...)
+Âme|(Déjà y'a l'air d'avoir un sol. J'suis pas en train de tomber c'est un début.)
+Âme|(J'vais ptêt trouver quelqu'un ici...)
+Voix très aigüe et absurdivement enjouée| Weeeeeeeeeeeeesh !!!
+Âme|Aaaaaah !! T'es qui ?
+Voix très aigüe et absurdivement enjouée|Je t'avais bien dit que c'était une mauvaise idée de faire commencer la simulation comme ça...
+Âme|De quoi tu parles ? Comment ça j'suis dans une simulation ?
+Voix très aigüe et absurdivement enjouée|T'es dans un jeu vidéo en fait.
+Âme|Wah c'est trop méta. On est dans Undertale ouuuuu ?
+Voix très aigüe et absurdivement enjouée|T'es dans un jeu vidéo que tu as fabriqué toi même en fait.
+Âme|Attend quoi ?
+Voix très aigüe et absurdivement enjouée|Tu ne te souviens vraiment de rien ?
+Âme|Nan. T'as l'air de savoir ce qui se passe j'veux bien une explication stp.
+Voix très aigüe et absurdivement enjouée|Okay.
+Voix très aigüe et absurdivement enjouée|Alors.
+Voix très aigüe et absurdivement enjouée|J'te présente le concept.
+Âme|Pourquoi tu parles comme si t'étais la proprio trentenaire d'une friperie éphémère en cycle court dans le 11e arrondissement ?
+Voix très aigüe et absurdivement enjouée|...
+Âme|Alors que t'as une voix à ne pas encore savoir ce qu'est une fraction.
+Voix très aigüe et absurdivement enjouée|Hey elle est super ma voix... Quoi ??? Comment ça "Voix très aigüe et absurdivement enjouée" ? T'abuses ptn...
+Voix très aigüe et absurdivement enjouée|Je change ça tout de suite.
+Voix enjouée|Voilà c'est mieux.
+Voix enjouée|Emoji fâché.
+Âme|Tu viens de dire "emoji fâché" irl là ?
+Voix enjouée|Oui.
+Voix enjouée|Tu fais pareil tout le temps.
+Âme|Ah bon...
+Âme|...
+Voix enjouée|Bon le concept !!!
+Âme|Ah oui le concept ! Je suis où ?
+Voix enjouée|Alors... Actually t'es dans un artéfact, dans ta chambre, qui génère une simulation numérique que tu as conçue toi-même et qui sert d'archive de trucs qui se sont passées dans la Canopée. Tu viens de finir la conception donc tu t'es transférée dans l'artéfact pour la tester toi-même. Voilà.
+Âme|C'est quoi la Canopée ?
+Voix enjouée|T'es quand même super débile à avoir décidé que la simulation ne conserverait pas ta mémoire. 
+Voix enjouée|La Canopée c'est un lieu de vie que tu as créé. J'suis une des habitantes. T'habites pas là tout le temps mais t'as une chambre ici. Et tu viens souvent nous voir.
+Voix enjouée|Ah oui j'ai pas précisé ! C'est un endroit imaginaire.
+Âme|Donc là je suis dans une simulation numérique contenue dans un espace imaginaire ?
+Voix enjouée|Exactement !
+Âme|...
+Âme|Alors que Inception c'est guez...
+Voix enjouée|Exactement !
+Âme|Et toi t'es la fée du tuto ?
+Voix enjouée|Bah non... J'suis une Proxy.
+Âme|C'est quoi une Proxy ?
+Voix enjouée|Ahah... Bah justement c'est tout l'intérêt de cette archive. J'vais pas répondre, tu vas explorer cet endroit et comprendre par toi-même !
+Âme|J'veux bien explorer mais il fait tout noir...
+Voix enjouée|C'est vrai.
+Voix enjouée|Attend !
+Voix enjouée|J'allume les lumières. Prête à voir ma magnifique petite bouille ?
+Âme|Si tu le dis...
+#Intro_Lights#
+Voix enjouée|Tadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa !!!
+Âme|Bah t'es où ?
+Voix enjouée|J'ai menti !!! J'suis pas dans la simulation !
+Âme|Super...
+Voix enjouée|J'suis dans ta chambre actuellement. Je suis en train de parler à l'artéfact et il transpose ma voix directement dans ta tête.
+Âme|Gé-nial...
+Âme|Bon... au moins y'a un chemin.
+Voix enjouée|On y va ?
+Âme|On y va !
